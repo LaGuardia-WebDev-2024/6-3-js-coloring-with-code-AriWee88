@@ -13,7 +13,7 @@ void draw(){
   //💡⬇️⬇️⬇️💡 Your Code For This Unit Goes Here
   
   // The ground
-  rect(0, 300, 400, 100);  
+  rect(-1, 287, 403, 115);  
 
   // The sun
   ellipse(80, 64, 100, 100);  
@@ -23,6 +23,16 @@ void draw(){
   ellipse(200, 200, 100, 100);
   ellipse(200, 120, 75, 75);
   
+  
+    line(241,190,312,135); //left arm 
+  line(163,190,100,250 )
+  
+  ellipse(178,117,10,10)
+  ellipse(222,117,10,10)
+  ellipse(201,185,20,20)
+  ellipse(201,224,20,20)
+  
+ 
 
 }
 
